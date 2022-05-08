@@ -1,12 +1,18 @@
 lockfileVersion: 5.3
 
 specifiers:
+  bittydash: ^0.0.12
   vite: ^2.9.7
 
 devDependencies:
+  bittydash: 0.0.12
   vite: 2.9.8
 
 packages:
+
+  /bittydash/0.0.12:
+    resolution: {integrity: sha512-neTmowPQwNzDsZ1CV07SmS3DdF5O2w3gWdQJEtK7lBdxvjmG6/c3w52ePJujcPEKqI+Azvamp5o5f7M5t8Q2Kg==}
+    dev: true
 
   /esbuild-android-64/0.14.38:
     resolution: {integrity: sha512-aRFxR3scRKkbmNuGAK+Gee3+yFxkTJO/cx83Dkyzo4CnQl/2zVSurtG6+G86EQIZ+w+VYngVyK7P3HyTBKu3nw==}
